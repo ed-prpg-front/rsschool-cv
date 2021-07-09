@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ed-prpg-front/rsschool-cv/cv
