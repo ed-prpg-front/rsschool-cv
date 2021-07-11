@@ -47,12 +47,13 @@ function findSum(n) {
 ```
 **7. Work experience**
 
-1.Javascript and html / css basic course 
+- Javascript and html / css basic course
+
 https://fls.guru/certificate.html?%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4_%D0%90%D0%BC%D0%B8%D0%BD%D0%B5%D0%B2_0878
 
-2. Js marathon 
+- Js marathon 
 
-3. Training layouts:
+- Training layouts:
 1. https://ed-prpg-front.github.io/Frispes/
 2. https://ed-prpg-front.github.io/Funiru/
 
