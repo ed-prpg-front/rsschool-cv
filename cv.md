@@ -1,7 +1,10 @@
 # CV
 **1. Name:** Eduard
-**2. Surname**:Aminev
+
+**2. Surname:**Aminev
+
 **3. Contacts for connection:**
+
    1. Phone number: +7982203952
    2. Telegram: @Eduard_prog
    3. Discord:  Eduard#5640
@@ -20,6 +23,7 @@ My goal - senior front-end developer. I have a great desire to work in this sphe
    - reliability;
 
 **5. Skills:**
+
 At the moment i don't know JS frameworks.In the future, i will study React, Node.js.
 At the moment i have following skills:
 - HTML 5
@@ -42,14 +46,17 @@ function findSum(n) {
 }
 ```
 **7. Work experience**
+
 1.Javascript and html / css basic course 
 https://fls.guru/certificate.html?%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4_%D0%90%D0%BC%D0%B8%D0%BD%D0%B5%D0%B2_0878
+
 2. Js marathon 
+
 3. Training layouts:
 1. https://ed-prpg-front.github.io/Frispes/
 2. https://ed-prpg-front.github.io/Funiru/
 
-**8.Education:**
+**8. Education:**
 1. Incomplete higher education
 
 **9. Level of english:**
