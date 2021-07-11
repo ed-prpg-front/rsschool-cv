@@ -1,1 +1,1 @@
-https://ed-prpg-front/rsschool-cv/cv
+https://ed-prpg-front.github.io/rsschool-cv/cv
