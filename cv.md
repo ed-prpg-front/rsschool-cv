@@ -1,7 +1,7 @@
 # CV
 **1. Name:** Eduard
 
-**2. Surname:**Aminev
+**2. Surname:** Aminev
 
 **3. Contacts for connection:**
 
